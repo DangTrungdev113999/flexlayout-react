@@ -188,7 +188,6 @@ export const TabButton = (props: ITabButtonProps) => {
             ref={selfRef}
             data-layout-path={path}
             className={classNames}
-            // onMouseDown={onMouseDown}
             onClick={onAuxMouseClick}
             onAuxClick={onAuxMouseClick}
             onContextMenu={onContextMenu}

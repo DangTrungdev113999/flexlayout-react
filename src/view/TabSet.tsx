@@ -344,7 +344,7 @@ export const TabSet = (props: ITabSetProps) => {
         <div
             className={tabStripClasses}
             style={tabStripStyle}
-            data-layout-path={path + "/tabstrip"}
+            // data-layout-path={path + "/tabstrip"}
             onMouseDown={onMouseDown}
             onTouchStart={onMouseDown}
             onContextMenu={onContextMenu}
