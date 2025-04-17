@@ -3,7 +3,7 @@ declarations/
 bundles/
 .idea/
 dist/
-lib/
+# lib/
 out/
 todo.txt
 .DS_Store
